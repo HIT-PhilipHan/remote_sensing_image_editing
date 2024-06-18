@@ -10,8 +10,8 @@ Artificial Intelligence Generative Content (AIGC) technologies have significantl
 # Expriments
 We evaluate our text-guided remote sensing image editing model through two editing scenarios. First, when comes to the scenario where the type of ground objects is homogeneous and the overall editing is required, we adopt the method of directly repainting the whole image through text guidance to edit the image. Secondly, in the scenario where the types of ground objects are complex and the editing of local areas needs to be refined, we edit it by combining the text guidance and ROI region mask.The images before and after editing are compared as follows:
 
-![full_image_edit]("/asserts/full_image_edit.png")
+![full_image_edit](/asserts/full_image_edit.png)
 
-![impaiting_image_edit]("/asserts/impaiting_image_edit.png")
+![impaiting_image_edit](/asserts/impaiting_image_edit.png)
 
 To validate the quality of the edited images quantificationally, we also use CLIP score and a subjective evaluation metric to compare the generation results.

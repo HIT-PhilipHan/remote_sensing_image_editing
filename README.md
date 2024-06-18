@@ -12,6 +12,6 @@ We evaluate our text-guided remote sensing image editing model through two editi
 
 ![full_image_edit](/asserts/full_image_edit.png)
 
-![impaiting_image_edit](/asserts/impaiting_image_edit.png)
+![impaiting_image_edit](/asserts/impainting_image_edit.png)
 
 To validate the quality of the edited images quantificationally, we also use CLIP score and a subjective evaluation metric to compare the generation results.

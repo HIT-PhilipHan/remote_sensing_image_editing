@@ -1,4 +1,5 @@
-<font color=red size=72>Our project is still being refined. More experimental results will be presented and the code will be available in the future.</font>
+**Our project is still being refined. More experimental results will be presented and the code will be available in the future.**
+
 # Exploring Text-Guided Single Image Editing for Remote Sensing Images
 
 Fangzhou Han, Lingyu Si, Hongwei Dong, Lamei Zhang, Hao Chen, and Bo Du,

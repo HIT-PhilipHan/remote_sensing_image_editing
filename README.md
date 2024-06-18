@@ -14,4 +14,6 @@ We evaluate our text-guided remote sensing image editing model through two editi
 
 ![impaiting_image_edit](/asserts/impainting_image_edit.png)
 
-To validate the quality of the edited images quantificationally, we also use CLIP score and a subjective evaluation metric to compare the generation results.
+To validate the proposed image editing method for supporting remote sensing tasks, we used the disaster assessment dataset\cite{7986759}, generating post-disaster images with the prompt ``a picture of ground after tsunami" to construct the training dataset,which is shown as follows:
+
+![building_damage_edit](/asserts/buildings.png)
